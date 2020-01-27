@@ -1,0 +1,11 @@
+C:\Users\alber\Desktop\.net\Escuela\bin\Debug\netcoreapp3.1\Escuela.exe
+C:\Users\alber\Desktop\.net\Escuela\bin\Debug\netcoreapp3.1\Escuela.deps.json
+C:\Users\alber\Desktop\.net\Escuela\bin\Debug\netcoreapp3.1\Escuela.runtimeconfig.json
+C:\Users\alber\Desktop\.net\Escuela\bin\Debug\netcoreapp3.1\Escuela.runtimeconfig.dev.json
+C:\Users\alber\Desktop\.net\Escuela\bin\Debug\netcoreapp3.1\Escuela.dll
+C:\Users\alber\Desktop\.net\Escuela\bin\Debug\netcoreapp3.1\Escuela.pdb
+C:\Users\alber\Desktop\.net\Escuela\obj\Debug\netcoreapp3.1\Escuela.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\.net\Escuela\obj\Debug\netcoreapp3.1\Escuela.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\.net\Escuela\obj\Debug\netcoreapp3.1\Escuela.AssemblyInfo.cs
+C:\Users\alber\Desktop\.net\Escuela\obj\Debug\netcoreapp3.1\Escuela.dll
+C:\Users\alber\Desktop\.net\Escuela\obj\Debug\netcoreapp3.1\Escuela.pdb
