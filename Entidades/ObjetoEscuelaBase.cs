@@ -1,10 +1,10 @@
 using System;
 
-namespace Etapa5.Entidades
+namespace CoreEscuela.Entidades 
 {
-    public class ObjetoEscuelaBase
+    public abstract class ObjetoEscuelaBase
     {
-        public string UniqueId { get; set; }
+        public string UniqueId { get; private set; }
         public string Nombre { get; set; }
         
         public ObjetoEscuelaBase()
@@ -12,5 +12,9 @@ namespace Etapa5.Entidades
             UniqueId = Guid.NewGuid().ToString();
         }
         
+        public override string ToString()
+        {
+            return $"{Nombre},{UniqueId}";
+        }
     }
 }
